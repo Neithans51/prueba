@@ -1,0 +1,60 @@
+body{
+    background-color: lightskyblue;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 23px;
+}
+
+.marco{
+    background-color: gainsboro;
+    margin: auto;
+    padding: 20px 10px 10px 10px;
+    width: 800px;
+    border-radius: 10px;
+}
+
+.marco h3{
+    text-align: center;
+}
+
+article{
+    text-align: right;
+    margin-right: 80px;
+}
+
+input{
+    width: 250px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+select{
+    margin-right: 130px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.radio{
+    position: relative;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+footer{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.submit{
+    border-radius: 4px;
+    margin:auto;
+    padding: 10px;
+    width: 100px;
+    color: #fff;
+    background-color: paleturquoise;
+    position: relative;
+}
